@@ -1,0 +1,10 @@
+name = "Olla"
+description = "A HTML only theme suitable for simple websites or documentation"
+license = "Unlicense"
+homepage = "https://github.com/omussell/olla"
+
+[extra]
+
+[author]
+name = "Oliver Mussell"
+homepage = "https://omussell.github.io"
