@@ -5,9 +5,9 @@ page_template = "page.html"
 sort_by = "weight"
 +++
 
-# Olla
+## What?
 
-A minimal, HTML-only [Zola](https://www.getzola.org/) template
+A minimal HTML-only [Zola](https://www.getzola.org/) theme
 
 ## Why?
 
@@ -21,4 +21,4 @@ My ideal workflow would be to use a static site generator that is just a single 
 
 Im well aware that the content of the index.html and page.html are pretty much duplicated, and probably missing some features. However, I have no interest in frontend work, and have no intention of being interested. Its perfectly functional with just text on a page.
 
-In addition, the design of these HTML pages was pretty much copy/pasted from the [Ed25519](http://ed25519.cr.yp.to/) website. I hope that isnt a problem...
+The design of these HTML pages was inspired by the [Ed25519](http://ed25519.cr.yp.to/) website.
